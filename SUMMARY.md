@@ -3,6 +3,7 @@
 * [前言](README.md)
 * [留学之旅](liu-xue-zhi-l/README.md)
   * [多国混申之路](liu-xue-zhi-l/duo-guo-hun-shen-zhi-lu.md)
+  * [港科广Ph.D](liu-xue-zhi-l/gang-ke-guang-ph.d.md)
 * [保研之旅](bao-yan-zhi-l/README.md)
   * [中科大保研](bao-yan-zhi-l/zhong-ke-da-bao-yan.md)
   * [2025届保研经验分享（北计，情深，高瓴，中科大）](bao-yan-zhi-l/2025-jie-bao-yan-jing-yan-fen-xiang-bei-ji-qing-shen-gao-ling-zhong-ke-da.md)
