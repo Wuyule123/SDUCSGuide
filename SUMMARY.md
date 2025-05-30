@@ -27,6 +27,8 @@
     * [土木->计科转专业指南](sheng-cun-gong-le/zhuan-zhuan-ye-zhi-nan/tu-mu-ji-ke-zhuan-zhuan-ye-zhi-nan.md)
   * [CS自学指南](sheng-cun-gong-le/cs-zi-xue-zhi-nan/README.md)
     * [操作系统自学心得](sheng-cun-gong-le/cs-zi-xue-zhi-nan/cao-zuo-xi-tong-zi-xue-xin-de.md)
+  * [这些事要是大一大二知道就好了](sheng-cun-gong-le/zhe-xie-shi-yao-shi-da-yi-da-er-zhi-dao-jiu-hao-le.md)
+  * [一些有趣的公开课](sheng-cun-gong-le/yi-xie-you-qu-de-gong-kai-ke.md)
 * [gitbook使用教程](gitbook-shi-yong-jiao-cheng/README.md)
   * [Welcome](gitbook-shi-yong-jiao-cheng/readme.md)
   * [Quickstart](gitbook-shi-yong-jiao-cheng/quickstart.md)
