@@ -15,6 +15,7 @@
   * [南京大学软件学院学硕](kao-yan-zhi-l/nan-jing-da-xue-ruan-jian-xue-yuan-xue-shuo.md)
 * [工作之旅](gong-zuo-zhi-l/README.md)
   * [拼多多后端开发](gong-zuo-zhi-l/pin-duo-duo-hou-duan-kai-fa.md)
+  * [华为软开](gong-zuo-zhi-l/hua-wei-ruan-kai.md)
 * [竞赛](jing-sai.md)
 * [生存攻略](sheng-cun-gong-le/README.md)
   * [🎨 绘图](sheng-cun-gong-le/hui-tu.md)
