@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言](README.md)
+* [SDUCS本科指南——前言](README.md)
 * [生存攻略](sheng-cun-gong-le/README.md)
   * [🎨 绘图](sheng-cun-gong-le/hui-tu.md)
   * [🧠 AI 使用指南](sheng-cun-gong-le/ai-shi-yong-zhi-nan.md)
